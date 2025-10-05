@@ -1,0 +1,1834 @@
+[
+  {
+    "id": "prod_0001",
+    "publicName": "Solace 15",
+    "category": "Oil",
+    "brand": "Southern Leaf",
+    "isWholesaleProduct": true,
+    "visibleTo": [
+      "admin",
+      "doctor"
+    ],
+    "createdAt": "2025-06-03T10:16:45Z",
+    "priceCents": 29151,
+    "tags": []
+  },
+  {
+    "id": "prod_0002",
+    "publicName": "Zenith 27",
+    "category": "Flower",
+    "brand": "MediGreen",
+    "isWholesaleProduct": true,
+    "visibleTo": [
+      "admin",
+      "doctor"
+    ],
+    "createdAt": "2025-06-22T05:27:48Z",
+    "priceCents": 19731,
+    "tags": []
+  },
+  {
+    "id": "prod_0003",
+    "publicName": "Grinder Pro",
+    "category": "Accessories",
+    "brand": "Tasmanian Botanics",
+    "isWholesaleProduct": true,
+    "visibleTo": [
+      "admin",
+      "doctor"
+    ],
+    "createdAt": "2025-06-16T12:01:59Z",
+    "priceCents": 25026,
+    "tags": [
+      "Value"
+    ]
+  },
+  {
+    "id": "prod_0004",
+    "publicName": "Zenith 15",
+    "category": "Flower",
+    "brand": "Southern Leaf",
+    "isWholesaleProduct": true,
+    "visibleTo": [
+      "admin"
+    ],
+    "createdAt": "2025-06-05T05:14:48Z",
+    "priceCents": 20713,
+    "tags": [
+      "Value",
+      "Limited"
+    ]
+  },
+  {
+    "id": "prod_0005",
+    "publicName": "Solace 27",
+    "category": "Oil",
+    "brand": "Tasmanian Botanics",
+    "isWholesaleProduct": true,
+    "visibleTo": [
+      "admin"
+    ],
+    "createdAt": "2025-08-08T09:46:16Z",
+    "priceCents": 26411,
+    "tags": [
+      "Accessory"
+    ]
+  },
+  {
+    "id": "prod_0006",
+    "publicName": "Solace 20",
+    "category": "Oil",
+    "brand": "Southern Leaf",
+    "isWholesaleProduct": true,
+    "visibleTo": [
+      "admin",
+      "doctor"
+    ],
+    "createdAt": "2025-07-06T10:07:14Z",
+    "priceCents": 17543,
+    "tags": []
+  },
+  {
+    "id": "prod_0007",
+    "publicName": "Harbour 10",
+    "category": "Oil",
+    "brand": "Kind Medical",
+    "isWholesaleProduct": false,
+    "visibleTo": [
+      "admin",
+      "doctor"
+    ],
+    "createdAt": "2025-06-27T05:01:26Z",
+    "priceCents": 3603,
+    "tags": [
+      "Accessory"
+    ]
+  },
+  {
+    "id": "prod_0008",
+    "publicName": "Eclipse Plus",
+    "category": "Flower",
+    "brand": "MediGreen",
+    "isWholesaleProduct": false,
+    "visibleTo": [
+      "admin"
+    ],
+    "createdAt": "2025-06-21T11:37:32Z",
+    "priceCents": 31571,
+    "tags": []
+  },
+  {
+    "id": "prod_0009",
+    "publicName": "Zenith Pro",
+    "category": "Flower",
+    "brand": "MGC",
+    "isWholesaleProduct": true,
+    "visibleTo": [
+      "admin"
+    ],
+    "createdAt": "2025-06-24T22:41:01Z",
+    "priceCents": 15873,
+    "tags": []
+  },
+  {
+    "id": "prod_0010",
+    "publicName": "Rocky Pro",
+    "category": "Oil",
+    "brand": "Southern Leaf",
+    "isWholesaleProduct": false,
+    "visibleTo": [
+      "doctor"
+    ],
+    "createdAt": "2025-06-09T19:50:03Z",
+    "priceCents": 5663,
+    "tags": [
+      "Accessory"
+    ]
+  },
+  {
+    "id": "prod_0011",
+    "publicName": "Jade 15",
+    "category": "Oil",
+    "brand": "Southern Leaf",
+    "isWholesaleProduct": true,
+    "visibleTo": [
+      "admin"
+    ],
+    "createdAt": "2025-07-16T10:38:07Z",
+    "priceCents": 18986,
+    "tags": [
+      "Limited",
+      "New"
+    ]
+  },
+  {
+    "id": "prod_0012",
+    "publicName": "Nimbus 20",
+    "category": "Flower",
+    "brand": "Southern Leaf",
+    "isWholesaleProduct": true,
+    "visibleTo": [
+      "admin"
+    ],
+    "createdAt": "2025-06-16T08:32:03Z",
+    "priceCents": 8473,
+    "tags": [
+      "Limited",
+      "Value"
+    ]
+  },
+  {
+    "id": "prod_0013",
+    "publicName": "Jade Softgel",
+    "category": "Oil",
+    "brand": "MediGreen",
+    "isWholesaleProduct": true,
+    "visibleTo": [
+      "admin"
+    ],
+    "createdAt": "2025-06-15T20:08:28Z",
+    "priceCents": 2776,
+    "tags": []
+  },
+  {
+    "id": "prod_0014",
+    "publicName": "Solace 15",
+    "category": "Capsules",
+    "brand": "MediGreen",
+    "isWholesaleProduct": false,
+    "visibleTo": [
+      "admin",
+      "doctor"
+    ],
+    "createdAt": "2025-08-20T17:55:16Z",
+    "priceCents": 6035,
+    "tags": [
+      "Bestseller",
+      "Premium"
+    ]
+  },
+  {
+    "id": "prod_0015",
+    "publicName": "Scale Pro",
+    "category": "Accessories",
+    "brand": "MGC",
+    "isWholesaleProduct": true,
+    "visibleTo": [
+      "admin",
+      "doctor"
+    ],
+    "createdAt": "2025-07-24T09:08:06Z",
+    "priceCents": 30211,
+    "tags": [
+      "Accessory",
+      "New"
+    ]
+  },
+  {
+    "id": "prod_0016",
+    "publicName": "Eclipse 10",
+    "category": "Flower",
+    "brand": "Tasmanian Botanics",
+    "isWholesaleProduct": true,
+    "visibleTo": [
+      "admin",
+      "doctor"
+    ],
+    "createdAt": "2025-06-07T05:11:28Z",
+    "priceCents": 5358,
+    "tags": []
+  },
+  {
+    "id": "prod_0017",
+    "publicName": "Aurora 27",
+    "category": "Flower",
+    "brand": "Southern Leaf",
+    "isWholesaleProduct": false,
+    "visibleTo": [
+      "admin",
+      "doctor"
+    ],
+    "createdAt": "2025-06-04T01:11:50Z",
+    "priceCents": 10171,
+    "tags": [
+      "Value",
+      "Premium"
+    ]
+  },
+  {
+    "id": "prod_0018",
+    "publicName": "Zenith Softgel",
+    "category": "Oil",
+    "brand": "MediGreen",
+    "isWholesaleProduct": true,
+    "visibleTo": [
+      "admin",
+      "doctor"
+    ],
+    "createdAt": "2025-08-16T04:17:44Z",
+    "priceCents": 28441,
+    "tags": [
+      "Premium"
+    ]
+  },
+  {
+    "id": "prod_0019",
+    "publicName": "Harbour 15",
+    "category": "Flower",
+    "brand": "Kind Medical",
+    "isWholesaleProduct": false,
+    "visibleTo": [
+      "admin",
+      "doctor"
+    ],
+    "createdAt": "2025-08-03T10:39:41Z",
+    "priceCents": 14056,
+    "tags": []
+  },
+  {
+    "id": "prod_0020",
+    "publicName": "Solace Plus",
+    "category": "Oil",
+    "brand": "Southern Leaf",
+    "isWholesaleProduct": true,
+    "visibleTo": [
+      "admin",
+      "doctor"
+    ],
+    "createdAt": "2025-06-14T14:38:54Z",
+    "priceCents": 7916,
+    "tags": []
+  },
+  {
+    "id": "prod_0021",
+    "publicName": "Cleaning Kit Pro",
+    "category": "Accessories",
+    "brand": "MediGreen",
+    "isWholesaleProduct": false,
+    "visibleTo": [
+      "admin"
+    ],
+    "createdAt": "2025-07-23T11:39:40Z",
+    "priceCents": 15508,
+    "tags": [
+      "New"
+    ]
+  },
+  {
+    "id": "prod_0022",
+    "publicName": "Aurora 30",
+    "category": "Flower",
+    "brand": "MediGreen",
+    "isWholesaleProduct": false,
+    "visibleTo": [
+      "admin"
+    ],
+    "createdAt": "2025-06-01T05:01:20Z",
+    "priceCents": 33394,
+    "tags": []
+  },
+  {
+    "id": "prod_0023",
+    "publicName": "Harbour 10",
+    "category": "Flower",
+    "brand": "Tasmanian Botanics",
+    "isWholesaleProduct": false,
+    "visibleTo": [
+      "admin",
+      "doctor"
+    ],
+    "createdAt": "2025-06-22T03:16:47Z",
+    "priceCents": 32746,
+    "tags": [
+      "Value",
+      "Bestseller"
+    ]
+  },
+  {
+    "id": "prod_0024",
+    "publicName": "Eclipse Pro",
+    "category": "Flower",
+    "brand": "Tasmanian Botanics",
+    "isWholesaleProduct": true,
+    "visibleTo": [
+      "admin",
+      "doctor"
+    ],
+    "createdAt": "2025-07-20T07:19:34Z",
+    "priceCents": 17635,
+    "tags": [
+      "Value",
+      "New"
+    ]
+  },
+  {
+    "id": "prod_0025",
+    "publicName": "Nimbus 27",
+    "category": "Oil",
+    "brand": "MGC",
+    "isWholesaleProduct": true,
+    "visibleTo": [
+      "admin",
+      "doctor"
+    ],
+    "createdAt": "2025-07-11T16:51:53Z",
+    "priceCents": 17142,
+    "tags": [
+      "Accessory"
+    ]
+  },
+  {
+    "id": "prod_0026",
+    "publicName": "Solace 10",
+    "category": "Flower",
+    "brand": "MediGreen",
+    "isWholesaleProduct": true,
+    "visibleTo": [
+      "admin"
+    ],
+    "createdAt": "2025-08-02T16:07:33Z",
+    "priceCents": 8052,
+    "tags": []
+  },
+  {
+    "id": "prod_0027",
+    "publicName": "Eclipse Softgel",
+    "category": "Oil",
+    "brand": "MGC",
+    "isWholesaleProduct": true,
+    "visibleTo": [
+      "admin"
+    ],
+    "createdAt": "2025-07-20T02:47:48Z",
+    "priceCents": 11838,
+    "tags": [
+      "Value"
+    ]
+  },
+  {
+    "id": "prod_0028",
+    "publicName": "Storage Pro",
+    "category": "Accessories",
+    "brand": "Tasmanian Botanics",
+    "isWholesaleProduct": false,
+    "visibleTo": [
+      "admin",
+      "doctor"
+    ],
+    "createdAt": "2025-07-30T09:18:44Z",
+    "priceCents": 8514,
+    "tags": [
+      "Value",
+      "Bestseller"
+    ]
+  },
+  {
+    "id": "prod_0029",
+    "publicName": "Nimbus Plus",
+    "category": "Flower",
+    "brand": "MGC",
+    "isWholesaleProduct": true,
+    "visibleTo": [
+      "admin",
+      "doctor"
+    ],
+    "createdAt": "2025-07-29T17:21:20Z",
+    "priceCents": 4829,
+    "tags": []
+  },
+  {
+    "id": "prod_0030",
+    "publicName": "Nimbus 20",
+    "category": "Oil",
+    "brand": "MediGreen",
+    "isWholesaleProduct": true,
+    "visibleTo": [
+      "admin"
+    ],
+    "createdAt": "2025-08-20T12:31:16Z",
+    "priceCents": 29528,
+    "tags": [
+      "New",
+      "Premium"
+    ]
+  },
+  {
+    "id": "prod_0031",
+    "publicName": "Rocky Pro",
+    "category": "Flower",
+    "brand": "Kind Medical",
+    "isWholesaleProduct": false,
+    "visibleTo": [
+      "admin"
+    ],
+    "createdAt": "2025-08-07T02:11:32Z",
+    "priceCents": 4241,
+    "tags": [
+      "Limited"
+    ]
+  },
+  {
+    "id": "prod_0032",
+    "publicName": "Eclipse 15",
+    "category": "Capsules",
+    "brand": "MGC",
+    "isWholesaleProduct": false,
+    "visibleTo": [
+      "admin",
+      "doctor"
+    ],
+    "createdAt": "2025-08-17T07:05:57Z",
+    "priceCents": 28132,
+    "tags": [
+      "Premium",
+      "Bestseller"
+    ]
+  },
+  {
+    "id": "prod_0033",
+    "publicName": "Zenith 10",
+    "category": "Capsules",
+    "brand": "Kind Medical",
+    "isWholesaleProduct": false,
+    "visibleTo": [
+      "admin"
+    ],
+    "createdAt": "2025-06-23T23:38:16Z",
+    "priceCents": 23270,
+    "tags": [
+      "Premium"
+    ]
+  },
+  {
+    "id": "prod_0034",
+    "publicName": "Zenith 10",
+    "category": "Capsules",
+    "brand": "MediGreen",
+    "isWholesaleProduct": true,
+    "visibleTo": [
+      "admin"
+    ],
+    "createdAt": "2025-08-18T17:10:58Z",
+    "priceCents": 16077,
+    "tags": []
+  },
+  {
+    "id": "prod_0035",
+    "publicName": "Storage Pro",
+    "category": "Accessories",
+    "brand": "MGC",
+    "isWholesaleProduct": true,
+    "visibleTo": [
+      "admin"
+    ],
+    "createdAt": "2025-07-15T16:35:03Z",
+    "priceCents": 19758,
+    "tags": []
+  },
+  {
+    "id": "prod_0036",
+    "publicName": "Harbour 10",
+    "category": "Topical",
+    "brand": "Tasmanian Botanics",
+    "isWholesaleProduct": true,
+    "visibleTo": [
+      "admin",
+      "doctor"
+    ],
+    "createdAt": "2025-06-28T02:24:30Z",
+    "priceCents": 18618,
+    "tags": []
+  },
+  {
+    "id": "prod_0037",
+    "publicName": "Harbour Pro",
+    "category": "Oil",
+    "brand": "Southern Leaf",
+    "isWholesaleProduct": true,
+    "visibleTo": [
+      "admin",
+      "doctor"
+    ],
+    "createdAt": "2025-06-26T18:34:53Z",
+    "priceCents": 9078,
+    "tags": [
+      "Value"
+    ]
+  },
+  {
+    "id": "prod_0038",
+    "publicName": "Eclipse Softgel",
+    "category": "Flower",
+    "brand": "MediGreen",
+    "isWholesaleProduct": true,
+    "visibleTo": [
+      "admin"
+    ],
+    "createdAt": "2025-06-05T07:25:41Z",
+    "priceCents": 6085,
+    "tags": [
+      "Limited",
+      "Value"
+    ]
+  },
+  {
+    "id": "prod_0039",
+    "publicName": "Zenith Softgel",
+    "category": "Flower",
+    "brand": "MediGreen",
+    "isWholesaleProduct": true,
+    "visibleTo": [
+      "doctor"
+    ],
+    "createdAt": "2025-08-22T08:01:07Z",
+    "priceCents": 20876,
+    "tags": [
+      "Bestseller",
+      "Premium"
+    ]
+  },
+  {
+    "id": "prod_0040",
+    "publicName": "Nimbus Pro",
+    "category": "Oil",
+    "brand": "Southern Leaf",
+    "isWholesaleProduct": true,
+    "visibleTo": [
+      "doctor"
+    ],
+    "createdAt": "2025-07-07T19:28:21Z",
+    "priceCents": 1526,
+    "tags": [
+      "Limited"
+    ]
+  },
+  {
+    "id": "prod_0041",
+    "publicName": "Aurora 27",
+    "category": "Flower",
+    "brand": "Southern Leaf",
+    "isWholesaleProduct": true,
+    "visibleTo": [
+      "admin",
+      "doctor"
+    ],
+    "createdAt": "2025-08-16T06:57:02Z",
+    "priceCents": 32510,
+    "tags": [
+      "Bestseller",
+      "New"
+    ]
+  },
+  {
+    "id": "prod_0042",
+    "publicName": "Eclipse 30",
+    "category": "Flower",
+    "brand": "Kind Medical",
+    "isWholesaleProduct": true,
+    "visibleTo": [
+      "admin"
+    ],
+    "createdAt": "2025-08-04T10:53:29Z",
+    "priceCents": 14550,
+    "tags": []
+  },
+  {
+    "id": "prod_0043",
+    "publicName": "Aurora Pro",
+    "category": "Flower",
+    "brand": "Southern Leaf",
+    "isWholesaleProduct": false,
+    "visibleTo": [
+      "admin"
+    ],
+    "createdAt": "2025-06-24T18:31:28Z",
+    "priceCents": 14242,
+    "tags": [
+      "Premium",
+      "Accessory"
+    ]
+  },
+  {
+    "id": "prod_0044",
+    "publicName": "Solace Pro",
+    "category": "Oil",
+    "brand": "Kind Medical",
+    "isWholesaleProduct": true,
+    "visibleTo": [
+      "admin"
+    ],
+    "createdAt": "2025-06-24T16:31:29Z",
+    "priceCents": 13026,
+    "tags": [
+      "Value",
+      "Accessory"
+    ]
+  },
+  {
+    "id": "prod_0045",
+    "publicName": "Aurora Softgel",
+    "category": "Flower",
+    "brand": "MediGreen",
+    "isWholesaleProduct": false,
+    "visibleTo": [
+      "admin",
+      "doctor"
+    ],
+    "createdAt": "2025-06-25T04:40:26Z",
+    "priceCents": 34581,
+    "tags": [
+      "Value"
+    ]
+  },
+  {
+    "id": "prod_0046",
+    "publicName": "Eclipse 30",
+    "category": "Oil",
+    "brand": "Southern Leaf",
+    "isWholesaleProduct": true,
+    "visibleTo": [
+      "admin",
+      "doctor"
+    ],
+    "createdAt": "2025-06-16T10:51:53Z",
+    "priceCents": 33258,
+    "tags": [
+      "Bestseller",
+      "Limited"
+    ]
+  },
+  {
+    "id": "prod_0047",
+    "publicName": "Solace 20",
+    "category": "Oil",
+    "brand": "Kind Medical",
+    "isWholesaleProduct": true,
+    "visibleTo": [
+      "admin",
+      "doctor"
+    ],
+    "createdAt": "2025-08-09T06:40:48Z",
+    "priceCents": 16655,
+    "tags": [
+      "Premium"
+    ]
+  },
+  {
+    "id": "prod_0048",
+    "publicName": "Zenith 10",
+    "category": "Flower",
+    "brand": "Kind Medical",
+    "isWholesaleProduct": true,
+    "visibleTo": [
+      "admin",
+      "doctor"
+    ],
+    "createdAt": "2025-06-21T18:32:46Z",
+    "priceCents": 29034,
+    "tags": [
+      "Value"
+    ]
+  },
+  {
+    "id": "prod_0049",
+    "publicName": "Jade Softgel",
+    "category": "Capsules",
+    "brand": "MGC",
+    "isWholesaleProduct": false,
+    "visibleTo": [
+      "admin",
+      "doctor"
+    ],
+    "createdAt": "2025-06-02T21:30:45Z",
+    "priceCents": 27058,
+    "tags": [
+      "Value"
+    ]
+  },
+  {
+    "id": "prod_0050",
+    "publicName": "Cleaning Kit Mini",
+    "category": "Accessories",
+    "brand": "MediGreen",
+    "isWholesaleProduct": false,
+    "visibleTo": [
+      "doctor"
+    ],
+    "createdAt": "2025-07-24T00:34:49Z",
+    "priceCents": 23528,
+    "tags": [
+      "Premium",
+      "Accessory"
+    ]
+  },
+  {
+    "id": "prod_0051",
+    "publicName": "Mouthpiece XL",
+    "category": "Accessories",
+    "brand": "Tasmanian Botanics",
+    "isWholesaleProduct": true,
+    "visibleTo": [
+      "admin",
+      "doctor"
+    ],
+    "createdAt": "2025-08-21T14:31:12Z",
+    "priceCents": 7001,
+    "tags": [
+      "Accessory",
+      "Bestseller"
+    ]
+  },
+  {
+    "id": "prod_0052",
+    "publicName": "Harbour Softgel",
+    "category": "Capsules",
+    "brand": "MediGreen",
+    "isWholesaleProduct": true,
+    "visibleTo": [
+      "admin",
+      "doctor"
+    ],
+    "createdAt": "2025-06-18T15:27:33Z",
+    "priceCents": 19735,
+    "tags": [
+      "Limited"
+    ]
+  },
+  {
+    "id": "prod_0053",
+    "publicName": "Grinder XL",
+    "category": "Accessories",
+    "brand": "Tasmanian Botanics",
+    "isWholesaleProduct": true,
+    "visibleTo": [
+      "admin"
+    ],
+    "createdAt": "2025-07-16T15:53:39Z",
+    "priceCents": 3533,
+    "tags": []
+  },
+  {
+    "id": "prod_0054",
+    "publicName": "Solace 27",
+    "category": "Flower",
+    "brand": "MediGreen",
+    "isWholesaleProduct": true,
+    "visibleTo": [
+      "admin",
+      "doctor"
+    ],
+    "createdAt": "2025-06-02T23:29:19Z",
+    "priceCents": 18293,
+    "tags": [
+      "Bestseller"
+    ]
+  },
+  {
+    "id": "prod_0055",
+    "publicName": "Nimbus 15",
+    "category": "Oil",
+    "brand": "Southern Leaf",
+    "isWholesaleProduct": true,
+    "visibleTo": [
+      "admin",
+      "doctor"
+    ],
+    "createdAt": "2025-08-12T14:47:35Z",
+    "priceCents": 3182,
+    "tags": [
+      "Value"
+    ]
+  },
+  {
+    "id": "prod_0056",
+    "publicName": "Scale XL",
+    "category": "Accessories",
+    "brand": "Southern Leaf",
+    "isWholesaleProduct": true,
+    "visibleTo": [
+      "admin",
+      "doctor"
+    ],
+    "createdAt": "2025-07-07T10:31:42Z",
+    "priceCents": 9433,
+    "tags": [
+      "New",
+      "Limited"
+    ]
+  },
+  {
+    "id": "prod_0057",
+    "publicName": "Zenith Plus",
+    "category": "Oil",
+    "brand": "Tasmanian Botanics",
+    "isWholesaleProduct": true,
+    "visibleTo": [
+      "admin",
+      "doctor"
+    ],
+    "createdAt": "2025-08-04T05:27:23Z",
+    "priceCents": 29911,
+    "tags": [
+      "Premium"
+    ]
+  },
+  {
+    "id": "prod_0058",
+    "publicName": "Nimbus Plus",
+    "category": "Capsules",
+    "brand": "MediGreen",
+    "isWholesaleProduct": true,
+    "visibleTo": [
+      "admin"
+    ],
+    "createdAt": "2025-07-15T15:16:13Z",
+    "priceCents": 30045,
+    "tags": [
+      "Value",
+      "Limited"
+    ]
+  },
+  {
+    "id": "prod_0059",
+    "publicName": "Eclipse Plus",
+    "category": "Flower",
+    "brand": "Southern Leaf",
+    "isWholesaleProduct": false,
+    "visibleTo": [
+      "admin"
+    ],
+    "createdAt": "2025-06-24T20:02:42Z",
+    "priceCents": 26337,
+    "tags": [
+      "New"
+    ]
+  },
+  {
+    "id": "prod_0060",
+    "publicName": "Harbour 30",
+    "category": "Oil",
+    "brand": "Southern Leaf",
+    "isWholesaleProduct": true,
+    "visibleTo": [
+      "admin"
+    ],
+    "createdAt": "2025-07-02T13:20:16Z",
+    "priceCents": 19605,
+    "tags": [
+      "New",
+      "Value"
+    ]
+  },
+  {
+    "id": "prod_0061",
+    "publicName": "Eclipse Plus",
+    "category": "Capsules",
+    "brand": "MediGreen",
+    "isWholesaleProduct": true,
+    "visibleTo": [
+      "admin",
+      "doctor"
+    ],
+    "createdAt": "2025-06-09T07:29:33Z",
+    "priceCents": 30871,
+    "tags": []
+  },
+  {
+    "id": "prod_0062",
+    "publicName": "Harbour Plus",
+    "category": "Flower",
+    "brand": "Southern Leaf",
+    "isWholesaleProduct": true,
+    "visibleTo": [
+      "admin",
+      "doctor"
+    ],
+    "createdAt": "2025-06-22T12:21:25Z",
+    "priceCents": 24028,
+    "tags": [
+      "Premium"
+    ]
+  },
+  {
+    "id": "prod_0063",
+    "publicName": "Solace 27",
+    "category": "Oil",
+    "brand": "MGC",
+    "isWholesaleProduct": true,
+    "visibleTo": [
+      "admin",
+      "doctor"
+    ],
+    "createdAt": "2025-07-05T03:46:40Z",
+    "priceCents": 9335,
+    "tags": [
+      "Value",
+      "Bestseller"
+    ]
+  },
+  {
+    "id": "prod_0064",
+    "publicName": "Nimbus 15",
+    "category": "Flower",
+    "brand": "Kind Medical",
+    "isWholesaleProduct": true,
+    "visibleTo": [
+      "admin"
+    ],
+    "createdAt": "2025-08-11T17:04:24Z",
+    "priceCents": 20914,
+    "tags": []
+  },
+  {
+    "id": "prod_0065",
+    "publicName": "Jade 30",
+    "category": "Flower",
+    "brand": "Kind Medical",
+    "isWholesaleProduct": true,
+    "visibleTo": [
+      "admin",
+      "doctor"
+    ],
+    "createdAt": "2025-06-30T08:20:04Z",
+    "priceCents": 33670,
+    "tags": []
+  },
+  {
+    "id": "prod_0066",
+    "publicName": "Jade 30",
+    "category": "Capsules",
+    "brand": "MediGreen",
+    "isWholesaleProduct": true,
+    "visibleTo": [
+      "admin",
+      "doctor"
+    ],
+    "createdAt": "2025-07-26T17:39:59Z",
+    "priceCents": 8976,
+    "tags": []
+  },
+  {
+    "id": "prod_0067",
+    "publicName": "Nimbus 15",
+    "category": "Oil",
+    "brand": "Kind Medical",
+    "isWholesaleProduct": true,
+    "visibleTo": [
+      "admin",
+      "doctor"
+    ],
+    "createdAt": "2025-06-08T04:37:26Z",
+    "priceCents": 9262,
+    "tags": [
+      "Accessory",
+      "Value"
+    ]
+  },
+  {
+    "id": "prod_0068",
+    "publicName": "Aurora 30",
+    "category": "Oil",
+    "brand": "Southern Leaf",
+    "isWholesaleProduct": true,
+    "visibleTo": [
+      "admin",
+      "doctor"
+    ],
+    "createdAt": "2025-07-31T01:01:09Z",
+    "priceCents": 29603,
+    "tags": [
+      "Value"
+    ]
+  },
+  {
+    "id": "prod_0069",
+    "publicName": "Eclipse 30",
+    "category": "Oil",
+    "brand": "Tasmanian Botanics",
+    "isWholesaleProduct": false,
+    "visibleTo": [
+      "admin"
+    ],
+    "createdAt": "2025-07-30T04:32:34Z",
+    "priceCents": 11792,
+    "tags": []
+  },
+  {
+    "id": "prod_0070",
+    "publicName": "Aurora 30",
+    "category": "Flower",
+    "brand": "Tasmanian Botanics",
+    "isWholesaleProduct": true,
+    "visibleTo": [
+      "admin",
+      "doctor"
+    ],
+    "createdAt": "2025-06-08T06:54:49Z",
+    "priceCents": 16670,
+    "tags": [
+      "Premium"
+    ]
+  },
+  {
+    "id": "prod_0071",
+    "publicName": "Eclipse Pro",
+    "category": "Flower",
+    "brand": "Tasmanian Botanics",
+    "isWholesaleProduct": true,
+    "visibleTo": [
+      "admin"
+    ],
+    "createdAt": "2025-08-23T11:01:43Z",
+    "priceCents": 16233,
+    "tags": [
+      "Bestseller",
+      "Limited"
+    ]
+  },
+  {
+    "id": "prod_0072",
+    "publicName": "Grinder Pro",
+    "category": "Accessories",
+    "brand": "MGC",
+    "isWholesaleProduct": true,
+    "visibleTo": [
+      "admin",
+      "doctor"
+    ],
+    "createdAt": "2025-06-07T22:23:49Z",
+    "priceCents": 27878,
+    "tags": [
+      "Value"
+    ]
+  },
+  {
+    "id": "prod_0073",
+    "publicName": "Harbour 30",
+    "category": "Oil",
+    "brand": "Tasmanian Botanics",
+    "isWholesaleProduct": true,
+    "visibleTo": [
+      "admin",
+      "doctor"
+    ],
+    "createdAt": "2025-07-13T12:03:07Z",
+    "priceCents": 7485,
+    "tags": []
+  },
+  {
+    "id": "prod_0074",
+    "publicName": "Nimbus 10",
+    "category": "Topical",
+    "brand": "Kind Medical",
+    "isWholesaleProduct": false,
+    "visibleTo": [
+      "admin",
+      "doctor"
+    ],
+    "createdAt": "2025-08-21T03:55:29Z",
+    "priceCents": 32334,
+    "tags": [
+      "Premium",
+      "Accessory"
+    ]
+  },
+  {
+    "id": "prod_0075",
+    "publicName": "Solace Plus",
+    "category": "Capsules",
+    "brand": "MGC",
+    "isWholesaleProduct": false,
+    "visibleTo": [
+      "admin"
+    ],
+    "createdAt": "2025-06-18T14:54:01Z",
+    "priceCents": 28261,
+    "tags": [
+      "Limited"
+    ]
+  },
+  {
+    "id": "prod_0076",
+    "publicName": "Cleaning Kit Mini",
+    "category": "Accessories",
+    "brand": "MGC",
+    "isWholesaleProduct": true,
+    "visibleTo": [
+      "admin",
+      "doctor"
+    ],
+    "createdAt": "2025-08-23T06:39:46Z",
+    "priceCents": 18041,
+    "tags": [
+      "New"
+    ]
+  },
+  {
+    "id": "prod_0077",
+    "publicName": "Aurora Pro",
+    "category": "Topical",
+    "brand": "Tasmanian Botanics",
+    "isWholesaleProduct": false,
+    "visibleTo": [
+      "admin",
+      "doctor"
+    ],
+    "createdAt": "2025-07-10T05:47:46Z",
+    "priceCents": 13793,
+    "tags": [
+      "Limited",
+      "Value"
+    ]
+  },
+  {
+    "id": "prod_0078",
+    "publicName": "Cleaning Kit XL",
+    "category": "Accessories",
+    "brand": "MediGreen",
+    "isWholesaleProduct": true,
+    "visibleTo": [
+      "admin",
+      "doctor"
+    ],
+    "createdAt": "2025-07-31T17:18:28Z",
+    "priceCents": 9457,
+    "tags": []
+  },
+  {
+    "id": "prod_0079",
+    "publicName": "Jade Pro",
+    "category": "Topical",
+    "brand": "Tasmanian Botanics",
+    "isWholesaleProduct": false,
+    "visibleTo": [
+      "admin",
+      "doctor"
+    ],
+    "createdAt": "2025-07-30T02:46:25Z",
+    "priceCents": 16225,
+    "tags": []
+  },
+  {
+    "id": "prod_0080",
+    "publicName": "Nimbus 30",
+    "category": "Oil",
+    "brand": "MediGreen",
+    "isWholesaleProduct": true,
+    "visibleTo": [
+      "admin"
+    ],
+    "createdAt": "2025-06-12T09:42:57Z",
+    "priceCents": 33121,
+    "tags": [
+      "Bestseller"
+    ]
+  },
+  {
+    "id": "prod_0081",
+    "publicName": "Rocky 15",
+    "category": "Oil",
+    "brand": "MGC",
+    "isWholesaleProduct": true,
+    "visibleTo": [
+      "doctor"
+    ],
+    "createdAt": "2025-06-15T01:02:24Z",
+    "priceCents": 28693,
+    "tags": [
+      "Value"
+    ]
+  },
+  {
+    "id": "prod_0082",
+    "publicName": "Aurora 20",
+    "category": "Flower",
+    "brand": "MediGreen",
+    "isWholesaleProduct": true,
+    "visibleTo": [
+      "admin",
+      "doctor"
+    ],
+    "createdAt": "2025-06-01T05:58:38Z",
+    "priceCents": 33241,
+    "tags": [
+      "Limited"
+    ]
+  },
+  {
+    "id": "prod_0083",
+    "publicName": "Eclipse Pro",
+    "category": "Oil",
+    "brand": "Kind Medical",
+    "isWholesaleProduct": true,
+    "visibleTo": [
+      "admin"
+    ],
+    "createdAt": "2025-07-23T18:17:01Z",
+    "priceCents": 28420,
+    "tags": []
+  },
+  {
+    "id": "prod_0084",
+    "publicName": "Rocky Plus",
+    "category": "Flower",
+    "brand": "Tasmanian Botanics",
+    "isWholesaleProduct": true,
+    "visibleTo": [
+      "admin",
+      "doctor"
+    ],
+    "createdAt": "2025-07-16T22:06:52Z",
+    "priceCents": 9773,
+    "tags": [
+      "Value",
+      "Limited"
+    ]
+  },
+  {
+    "id": "prod_0085",
+    "publicName": "Jade 20",
+    "category": "Capsules",
+    "brand": "MediGreen",
+    "isWholesaleProduct": false,
+    "visibleTo": [
+      "admin"
+    ],
+    "createdAt": "2025-08-24T21:00:40Z",
+    "priceCents": 11616,
+    "tags": []
+  },
+  {
+    "id": "prod_0086",
+    "publicName": "Harbour Pro",
+    "category": "Oil",
+    "brand": "MGC",
+    "isWholesaleProduct": true,
+    "visibleTo": [
+      "admin",
+      "doctor"
+    ],
+    "createdAt": "2025-06-26T17:32:52Z",
+    "priceCents": 33478,
+    "tags": [
+      "New",
+      "Value"
+    ]
+  },
+  {
+    "id": "prod_0087",
+    "publicName": "Solace Pro",
+    "category": "Flower",
+    "brand": "Tasmanian Botanics",
+    "isWholesaleProduct": true,
+    "visibleTo": [
+      "admin",
+      "doctor"
+    ],
+    "createdAt": "2025-08-01T06:42:42Z",
+    "priceCents": 8086,
+    "tags": [
+      "Bestseller"
+    ]
+  },
+  {
+    "id": "prod_0088",
+    "publicName": "Storage Mini",
+    "category": "Accessories",
+    "brand": "Southern Leaf",
+    "isWholesaleProduct": true,
+    "visibleTo": [
+      "admin",
+      "doctor"
+    ],
+    "createdAt": "2025-06-03T19:27:07Z",
+    "priceCents": 28504,
+    "tags": [
+      "Premium",
+      "Bestseller"
+    ]
+  },
+  {
+    "id": "prod_0089",
+    "publicName": "Aurora 20",
+    "category": "Flower",
+    "brand": "Kind Medical",
+    "isWholesaleProduct": true,
+    "visibleTo": [
+      "admin",
+      "doctor"
+    ],
+    "createdAt": "2025-06-08T16:00:34Z",
+    "priceCents": 31721,
+    "tags": [
+      "Limited",
+      "Accessory"
+    ]
+  },
+  {
+    "id": "prod_0090",
+    "publicName": "Rocky 15",
+    "category": "Flower",
+    "brand": "MediGreen",
+    "isWholesaleProduct": false,
+    "visibleTo": [
+      "admin",
+      "doctor"
+    ],
+    "createdAt": "2025-06-01T21:53:51Z",
+    "priceCents": 24146,
+    "tags": [
+      "Limited",
+      "Accessory"
+    ]
+  },
+  {
+    "id": "prod_0091",
+    "publicName": "Storage Pro",
+    "category": "Accessories",
+    "brand": "Southern Leaf",
+    "isWholesaleProduct": false,
+    "visibleTo": [
+      "admin",
+      "doctor"
+    ],
+    "createdAt": "2025-07-15T08:30:16Z",
+    "priceCents": 25024,
+    "tags": [
+      "Limited",
+      "Premium"
+    ]
+  },
+  {
+    "id": "prod_0092",
+    "publicName": "Jade Plus",
+    "category": "Flower",
+    "brand": "MGC",
+    "isWholesaleProduct": true,
+    "visibleTo": [
+      "admin",
+      "doctor"
+    ],
+    "createdAt": "2025-08-20T14:07:39Z",
+    "priceCents": 16581,
+    "tags": [
+      "Limited",
+      "Bestseller"
+    ]
+  },
+  {
+    "id": "prod_0093",
+    "publicName": "Rocky 15",
+    "category": "Oil",
+    "brand": "Tasmanian Botanics",
+    "isWholesaleProduct": true,
+    "visibleTo": [
+      "admin"
+    ],
+    "createdAt": "2025-07-31T06:46:52Z",
+    "priceCents": 21746,
+    "tags": [
+      "New"
+    ]
+  },
+  {
+    "id": "prod_0094",
+    "publicName": "Zenith 20",
+    "category": "Oil",
+    "brand": "Kind Medical",
+    "isWholesaleProduct": true,
+    "visibleTo": [
+      "doctor"
+    ],
+    "createdAt": "2025-08-11T02:31:19Z",
+    "priceCents": 10161,
+    "tags": [
+      "Limited",
+      "Value"
+    ]
+  },
+  {
+    "id": "prod_0095",
+    "publicName": "Aurora 30",
+    "category": "Oil",
+    "brand": "MGC",
+    "isWholesaleProduct": false,
+    "visibleTo": [
+      "admin"
+    ],
+    "createdAt": "2025-06-27T11:02:05Z",
+    "priceCents": 9047,
+    "tags": [
+      "New"
+    ]
+  },
+  {
+    "id": "prod_0096",
+    "publicName": "Harbour 15",
+    "category": "Flower",
+    "brand": "MediGreen",
+    "isWholesaleProduct": false,
+    "visibleTo": [
+      "admin"
+    ],
+    "createdAt": "2025-06-22T21:43:13Z",
+    "priceCents": 2412,
+    "tags": [
+      "Value"
+    ]
+  },
+  {
+    "id": "prod_0097",
+    "publicName": "Harbour 15",
+    "category": "Flower",
+    "brand": "Kind Medical",
+    "isWholesaleProduct": true,
+    "visibleTo": [
+      "admin",
+      "doctor"
+    ],
+    "createdAt": "2025-07-06T18:52:00Z",
+    "priceCents": 32398,
+    "tags": []
+  },
+  {
+    "id": "prod_0098",
+    "publicName": "Aurora 30",
+    "category": "Oil",
+    "brand": "MediGreen",
+    "isWholesaleProduct": true,
+    "visibleTo": [
+      "admin",
+      "doctor"
+    ],
+    "createdAt": "2025-07-25T12:10:26Z",
+    "priceCents": 9146,
+    "tags": []
+  },
+  {
+    "id": "prod_0099",
+    "publicName": "Rocky Pro",
+    "category": "Flower",
+    "brand": "MediGreen",
+    "isWholesaleProduct": true,
+    "visibleTo": [
+      "admin",
+      "doctor"
+    ],
+    "createdAt": "2025-06-04T14:42:37Z",
+    "priceCents": 25814,
+    "tags": [
+      "Premium",
+      "Value"
+    ]
+  },
+  {
+    "id": "prod_0100",
+    "publicName": "Aurora Pro",
+    "category": "Oil",
+    "brand": "MGC",
+    "isWholesaleProduct": true,
+    "visibleTo": [
+      "doctor"
+    ],
+    "createdAt": "2025-08-12T01:36:43Z",
+    "priceCents": 3644,
+    "tags": [
+      "Limited",
+      "Bestseller"
+    ]
+  },
+  {
+    "id": "prod_0101",
+    "publicName": "Harbour 10",
+    "category": "Oil",
+    "brand": "MediGreen",
+    "isWholesaleProduct": false,
+    "visibleTo": [
+      "admin",
+      "doctor"
+    ],
+    "createdAt": "2025-06-23T22:10:56Z",
+    "priceCents": 19580,
+    "tags": []
+  },
+  {
+    "id": "prod_0102",
+    "publicName": "Jade 10",
+    "category": "Topical",
+    "brand": "MGC",
+    "isWholesaleProduct": false,
+    "visibleTo": [
+      "admin",
+      "doctor"
+    ],
+    "createdAt": "2025-08-22T08:03:37Z",
+    "priceCents": 17462,
+    "tags": []
+  },
+  {
+    "id": "prod_0103",
+    "publicName": "Scale Mini",
+    "category": "Accessories",
+    "brand": "Southern Leaf",
+    "isWholesaleProduct": true,
+    "visibleTo": [
+      "admin",
+      "doctor"
+    ],
+    "createdAt": "2025-06-20T22:09:49Z",
+    "priceCents": 1685,
+    "tags": [
+      "Bestseller"
+    ]
+  },
+  {
+    "id": "prod_0104",
+    "publicName": "Jade 20",
+    "category": "Topical",
+    "brand": "Tasmanian Botanics",
+    "isWholesaleProduct": true,
+    "visibleTo": [
+      "admin",
+      "doctor"
+    ],
+    "createdAt": "2025-07-23T10:47:35Z",
+    "priceCents": 24977,
+    "tags": []
+  },
+  {
+    "id": "prod_0105",
+    "publicName": "Solace 15",
+    "category": "Oil",
+    "brand": "MediGreen",
+    "isWholesaleProduct": true,
+    "visibleTo": [
+      "admin"
+    ],
+    "createdAt": "2025-06-02T12:46:21Z",
+    "priceCents": 30878,
+    "tags": [
+      "Value"
+    ]
+  },
+  {
+    "id": "prod_0106",
+    "publicName": "Nimbus Plus",
+    "category": "Oil",
+    "brand": "Tasmanian Botanics",
+    "isWholesaleProduct": true,
+    "visibleTo": [
+      "doctor"
+    ],
+    "createdAt": "2025-07-14T21:14:56Z",
+    "priceCents": 5486,
+    "tags": [
+      "Accessory"
+    ]
+  },
+  {
+    "id": "prod_0107",
+    "publicName": "Solace Softgel",
+    "category": "Oil",
+    "brand": "Southern Leaf",
+    "isWholesaleProduct": true,
+    "visibleTo": [
+      "doctor"
+    ],
+    "createdAt": "2025-06-11T11:34:09Z",
+    "priceCents": 11221,
+    "tags": []
+  },
+  {
+    "id": "prod_0108",
+    "publicName": "Nimbus Plus",
+    "category": "Flower",
+    "brand": "Southern Leaf",
+    "isWholesaleProduct": true,
+    "visibleTo": [
+      "admin",
+      "doctor"
+    ],
+    "createdAt": "2025-07-31T14:45:54Z",
+    "priceCents": 29693,
+    "tags": []
+  },
+  {
+    "id": "prod_0109",
+    "publicName": "Cleaning Kit Mini",
+    "category": "Accessories",
+    "brand": "MediGreen",
+    "isWholesaleProduct": false,
+    "visibleTo": [
+      "admin"
+    ],
+    "createdAt": "2025-06-12T02:36:14Z",
+    "priceCents": 23712,
+    "tags": [
+      "Accessory"
+    ]
+  },
+  {
+    "id": "prod_0110",
+    "publicName": "Rocky Plus",
+    "category": "Oil",
+    "brand": "Tasmanian Botanics",
+    "isWholesaleProduct": true,
+    "visibleTo": [
+      "admin",
+      "doctor"
+    ],
+    "createdAt": "2025-06-10T05:33:57Z",
+    "priceCents": 7478,
+    "tags": []
+  },
+  {
+    "id": "prod_0111",
+    "publicName": "Jade Softgel",
+    "category": "Flower",
+    "brand": "Tasmanian Botanics",
+    "isWholesaleProduct": true,
+    "visibleTo": [
+      "admin",
+      "doctor"
+    ],
+    "createdAt": "2025-06-10T09:00:41Z",
+    "priceCents": 28422,
+    "tags": [
+      "Premium"
+    ]
+  },
+  {
+    "id": "prod_0112",
+    "publicName": "Nimbus Softgel",
+    "category": "Capsules",
+    "brand": "Tasmanian Botanics",
+    "isWholesaleProduct": false,
+    "visibleTo": [
+      "admin"
+    ],
+    "createdAt": "2025-07-12T01:30:51Z",
+    "priceCents": 34753,
+    "tags": []
+  },
+  {
+    "id": "prod_0113",
+    "publicName": "Harbour 15",
+    "category": "Flower",
+    "brand": "MGC",
+    "isWholesaleProduct": true,
+    "visibleTo": [
+      "admin"
+    ],
+    "createdAt": "2025-07-17T19:34:57Z",
+    "priceCents": 16321,
+    "tags": [
+      "Value"
+    ]
+  },
+  {
+    "id": "prod_0114",
+    "publicName": "Nimbus 10",
+    "category": "Topical",
+    "brand": "Kind Medical",
+    "isWholesaleProduct": true,
+    "visibleTo": [
+      "admin",
+      "doctor"
+    ],
+    "createdAt": "2025-08-19T11:04:22Z",
+    "priceCents": 19409,
+    "tags": [
+      "Limited",
+      "Premium"
+    ]
+  },
+  {
+    "id": "prod_0115",
+    "publicName": "Rocky 10",
+    "category": "Flower",
+    "brand": "Tasmanian Botanics",
+    "isWholesaleProduct": false,
+    "visibleTo": [
+      "admin",
+      "doctor"
+    ],
+    "createdAt": "2025-06-18T14:42:20Z",
+    "priceCents": 15598,
+    "tags": [
+      "Accessory"
+    ]
+  },
+  {
+    "id": "prod_0116",
+    "publicName": "Solace 10",
+    "category": "Oil",
+    "brand": "Kind Medical",
+    "isWholesaleProduct": true,
+    "visibleTo": [
+      "admin"
+    ],
+    "createdAt": "2025-06-16T06:47:24Z",
+    "priceCents": 11816,
+    "tags": [
+      "New",
+      "Premium"
+    ]
+  },
+  {
+    "id": "prod_0117",
+    "publicName": "Eclipse 15",
+    "category": "Flower",
+    "brand": "MGC",
+    "isWholesaleProduct": true,
+    "visibleTo": [
+      "admin",
+      "doctor"
+    ],
+    "createdAt": "2025-08-04T06:25:44Z",
+    "priceCents": 29674,
+    "tags": []
+  },
+  {
+    "id": "prod_0118",
+    "publicName": "Eclipse Pro",
+    "category": "Flower",
+    "brand": "Southern Leaf",
+    "isWholesaleProduct": true,
+    "visibleTo": [
+      "admin",
+      "doctor"
+    ],
+    "createdAt": "2025-08-05T20:59:15Z",
+    "priceCents": 5090,
+    "tags": []
+  },
+  {
+    "id": "prod_0119",
+    "publicName": "Solace 10",
+    "category": "Flower",
+    "brand": "MediGreen",
+    "isWholesaleProduct": false,
+    "visibleTo": [
+      "admin",
+      "doctor"
+    ],
+    "createdAt": "2025-06-21T12:12:39Z",
+    "priceCents": 29723,
+    "tags": []
+  },
+  {
+    "id": "prod_0120",
+    "publicName": "Harbour 15",
+    "category": "Flower",
+    "brand": "MediGreen",
+    "isWholesaleProduct": true,
+    "visibleTo": [
+      "admin"
+    ],
+    "createdAt": "2025-07-22T17:00:24Z",
+    "priceCents": 4272,
+    "tags": [
+      "New"
+    ]
+  }
+]
