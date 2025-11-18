@@ -4,12 +4,16 @@ import AudioRecorder from "../recorder/AudioRecorder";
 import CountdownTimer from "../timer/CountdownTimer";
 import ProgressBar from "../progressbar/ProgressBar";
 import PTEAudioRecorder from "../recorder/PTEAudioRecorder";
+import { OpenAI } from "openai";
+
+import axios from "axios";
 const ReadAloud: React.FC = () => {
   const [sentence, setSentence] = useState<string>("");
   const [recording, setRecording] = useState<any>();
   const [countdown, setCountdown] = useState(45);
   const [timeLeft, setTimeLeft] = useState(60);
   const [phase, setPhase] = useState<"prep" | "recording" | "done">("prep");
+  const client = new OpenAI({ apiKey: process.env.OPENAI_API_KEY });
 
   useEffect(() => {
     // fetch data from backend
@@ -19,10 +23,36 @@ const ReadAloud: React.FC = () => {
   const handleStart = (recording: any) => {
     // Logic to start reading aloud
     console.log("Reading started");
+    setRecording(recording);
   };
 
   const handleClickSubmit = () => {
     // AI to evaluate the recording and give score and suggestions for improvements
+    axios
+      .post("/api/speech-to-text", {
+        audio: recording,
+      })
+      .then(async (response) => {
+        const improved = await client.chat.completions.create({
+          model: "gpt-4.1",
+          messages: [
+            {
+              role: "system",
+              content: "Fix grammar and suggest improvements.",
+            },
+            { role: "user", content: response.data.text },
+          ],
+        });
+
+        const suggestions = improved.choices[0].message.content;
+        <Box mt={4} fontSize={18} sx={{ color: "black" }}>
+          <h2>Suggestions for Improvement:</h2>
+          <p>{suggestions}</p>
+        </Box>;
+      })
+      .catch((error) => {
+        console.error("Error during transcription:", error);
+      });
   };
   return (
     <Box

@@ -18,6 +18,7 @@
     "@types/react-dom": "^19.1.9",
     "axios": "^1.12.2",
     "framer-motion": "^12.23.21",
+    "openai": "^6.9.1",
     "react": "^19.1.1",
     "react-countdown": "^2.3.6",
     "react-dom": "^19.1.1",
